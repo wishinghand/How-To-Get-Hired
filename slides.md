@@ -7,15 +7,15 @@ revealOptions:
 ---
 ### Who Am I?
 
-Site: Jason.Land
+Site: <a>Jason.Land</a>
 
 - Full Stack Developer at Diego Dev
 
-- Co-organizer at https://www.meetup.com/sandiegojs
+- Co-organizer at <a>meetup.com/sandiegojs</a>
 
 - Previously Tipsy Elves, The Control Group, Origin Code Academy, Touch This Media
 
-- Curator of https://n00b.news
+- Curator of <a>n00b.news</a> (those are zeroes)
 
 ---
 # How to Get Hired
@@ -43,6 +43,14 @@ Site: Jason.Land
 </ul>
 
 ---
+## Are You Experienced?
+<ul>
+    <li class="fragment">Every job description is a wish list</li>
+    <li class="fragment">Unless it's wildly out of your skill set, you can probably get it</li>
+    <li class="fragment">If you don't know something on the list, start Youtubing</li>
+</ul>
+
+---
 ## A Job is Just a Job
 You are trading time and labor for capital.
 
@@ -56,12 +64,21 @@ Check out Indeed/Monster/etc
 
 <p class="fragment">But don't use them to apply!</p>
 ---
-<img src="resume.jpg" alt="">
+<h4>A typical job submission site</h4>
+<img src="resume.jpg" alt="" style="width:50%;">
 
 ---
 ## Find out who's in charge
 <span><h4 class="fragment">AKA</h4></span>
 <span><h2 class="fragment">Start Stalking</h2></span>
+
+---
+## "No" Man
+
+It's their job to say "no" to that stack of resumes from Indeed
+
+<span><p class="fragment">It's your job to get them to not do that</p></span>
+ 
 
 ---
 ## Target Acquisition
@@ -86,8 +103,8 @@ Check out Indeed/Monster/etc
 ---
 ## Don't You Forget About Me
 - Don't let more than 4 days go by without a message contact
-- Dont' harass them, but just ask if they've had a look at your resume yet
-- You can quit if they've ghosted you for 14+ days
+- Don't harass, just ask if they've had a look at your resume
+- Only give up after 14+ days of no response
 
 ---
 ## Be Accessible
@@ -96,19 +113,19 @@ Check out Indeed/Monster/etc
 - Host it on Heroku or Now.sh
 - Get a great README on your repos: https://bit.ly/2u0I8dr
 - Host an HTML resume on your site w/PDF download
-<p class="fragment">Practicing what I preach: https://jason.land/resume</p>
+<p class="fragment">Practicing what I preach: <a>Jason.Land/resume</a></p>
 
 ---
 ## Look The part
-- Dress work-casual, no tie needed unless finance or they say so
-- Men: Get some nice leather shoes, all black sneakers won't cut it
+- Business casual attire is fine, no tie needed
+- Men: Get nice leather shoes, all black sneakers won't cut it
 - Women: slacks & blouse are fine, no heels needed
 - If they say don't wear a suit...
 
 <span><h1 class="fragment">Don't wear a suit</h1></span>
 
 ---
-# Walk the Walk
+## Walk the Walk
 - Arrive 10 minutes early
 - Accept a water if they ask you if you want something
 - Go over your interview questions
@@ -124,7 +141,6 @@ Check out Indeed/Monster/etc
 
 ---
 ## Talk the talk
-<p>YOU MUST ASK THEM QUESTIONS</p>
 <p>Interviews are a two way street</p>
 
 - Questions from the updated Joel Test
@@ -132,11 +148,17 @@ Check out Indeed/Monster/etc
 - Is there a mentor system in place?
 - What would your ideal candidate look like 6 months from now?
 
+<p><b class="fragment">YOU MUST ASK THEM QUESTIONS</b></p>
+
 ---
 ## Seal the Deal
-- Speak as if you're a strong candidate
-- Ask what the next steps are
-- Thank them: https://www.thankyouletter.ws
-- Remember the 4 day rule
+<ul>
+    <li >Speak as if you're a strong candidate</li>
+    <li >Ask what the next steps are</li>
+    <li >Thank them: <a>thankyouletter.ws</a></li>
+    <li class="fragment">Remember the 4 day rule</li>
+</ul>
+
+---
 
 ---
