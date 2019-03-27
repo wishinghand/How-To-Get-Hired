@@ -9,22 +9,29 @@ revealOptions:
 
 Site: <a>Jason.Land</a>
 
-- Full Stack Developer at Diego Dev
+- Front End Engineer at Diego Dev
 
 - Co-organizer at <a>meetup.com/sandiegojs</a>
 
 - Previously Tipsy Elves, The Control Group, Origin Code Academy, Touch This Media
 
-- Curator of <a>n00b.news</a> (those are zeroes)
+- Curator of <a>n00b.news</a>
 
 ---
-# How to Get Hired
+# Remember:
+## A Job is Just a Job
+You are trading time and labor for capital.
+
+Don't fall in love with a position.
+
+It will never love you back.
 
 ---
-## So you need a job
+# So you need a job
+## 5 tips to get you hired
 
 ---
-# Don't Panic
+# 1. Don't Panic
 ## Keep living life
 
 - Eat Right
@@ -32,8 +39,8 @@ Site: <a>Jason.Land</a>
 - See your friends/family
 
 ---
-## What Do You Want?
-- Front/back end or full stack?
+## 2. What Do You Want?
+- Front/back end or full stack? Mobile? DevOps?
 - Startup, enterprise, contract, non-profit?
 - SaaS, B2B, B2C, E-commerce?
 - Find what satisfies you
@@ -42,15 +49,7 @@ Site: <a>Jason.Land</a>
 ## Are You Experienced?
 - Every job description is a wish list
 - Unless it's wildly out of your skill set, you can probably get it
-- If you don't know something on the list, start Youtubing
-
----
-## A Job is Just a Job
-You are trading time and labor for capital.
-
-Don't fall in love with a position.
-
-It will never love you back.
+- If you don't know something on the list, Youtube, Udemy, Egghead
 
 ---
 ## Look online
@@ -62,23 +61,28 @@ Check out Indeed/Monster/etc
 <img src="resume.jpg" alt="" style="width:50%;">
 
 ---
-## Find out who's in charge
-#### AKA
-## Start Stalking
+## 3. Find out who's in charge
 
 ---
-## "No" Man
+## The "No" Person
 
 1. It's their job to say "no" to that stack of resumes from Indeed
 
-2. It's your job to get them to not do that
+2. It's your job to get them to say yes
 
 
 ---
 ## Target Acquisition
-- Look at the company's staff page, find the senior developers (not the CTO)
+- Look at the company's staff page, find the senior developers (never the CTO unless it's a startup)
 - Check if they have in-house recruiters
 - Contact someone in HR as a last resort
+
+
+---
+## 4. Don't You Forget About Me
+- Don't let more than 4 days go by without a message contact
+- Don't harass, just ask if they've had a look at your resume
+- Only give up after 14+ days of no response
 
 ---
 ## Go Pro
@@ -92,20 +96,13 @@ Check out Indeed/Monster/etc
 1. To save time
 2. To save money
 3. To do something they don't know how (which is really a combo of 1 & 2)
-
-### Your message needs to convey 1, 2, or 3
-
----
-## Don't You Forget About Me
-- Don't let more than 4 days go by without a message contact
-- Don't harass, just ask if they've had a look at your resume
-- Only give up after 14+ days of no response
+4. Your message needs to convey 1, 2, or 3
 
 ---
 ## Be Accessible
 - Setup a site w/screenshots/gifs of your app(s)
 - No one has time to install the source so make a portfolio page
-- Host it on Heroku or Now.sh
+- Host it on Now.sh
 - Get a great README on your repos: http://bit.ly/nice-readme
 - Host an HTML resume on your site w/PDF download
 
@@ -114,11 +111,14 @@ Practicing what I preach: <a>Jason.Land/resume</a>
 ---
 ## Look The part
 - Business casual attire is fine, no tie needed
-- Men: Get nice leather shoes, all black sneakers won't cut it
+- Men: Get leather shoes, all black sneakers won't cut it
 - Women: slacks & blouse are fine, no heels needed
 - If they say don't wear a suit...
 
 # Don't wear a suit
+
+---
+# 5. Seal the Deal
 
 ---
 ## Walk the Walk
@@ -127,7 +127,7 @@ Practicing what I preach: <a>Jason.Land/resume</a>
 - Go over your interview questions
 - DO NOT TAKE OUT YOUR PHONE
 
-You know what? Just leave it at home
+<p class="fragment">You know what? Just leave it at home</p>
 
 ---
 - Bring a leather portfolio with:
@@ -154,6 +154,7 @@ You know what? Just leave it at home
 - Remember the 4 day rule
 
 ---
+## Secret Step 6:
 ## Connections are Everything
 - I've found 4 jobs through meetups
 - Go to one at least once a week
