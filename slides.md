@@ -32,6 +32,7 @@ It will never love you back.
 
 ---
 # 1. Don't Panic
+---
 ## Keep living life
 
 - Eat Right
@@ -39,7 +40,14 @@ It will never love you back.
 - See your friends/family
 
 ---
-## 2. What Do You Want?
+## Keep Track of Your Work
+
+- Trello is easy and free
+- List your network contacts who might be able to help
+
+---
+# 2. What Do You Want?
+---
 - Front/back end or full stack? Mobile? DevOps?
 - Startup, enterprise, contract, non-profit?
 - SaaS, B2B, B2C, E-commerce?
@@ -49,7 +57,7 @@ It will never love you back.
 ## Are You Experienced?
 - Every job description is a wish list
 - Unless it's wildly out of your skill set, you can probably get it
-- If you don't know something on the list, Youtube, Udemy, Egghead
+- If you don't know something on the list, then Youtube, Udemy, Egghead are your friends
 
 ---
 ## Look online
@@ -61,7 +69,13 @@ Check out Indeed/Monster/etc
 <img src="resume.jpg" alt="" style="width:50%;">
 
 ---
-## 3. Find out who's in charge
+## Be attractive, don't be unnattractive
+- Setup a website, but don't build a website
+- Your projects should be running live on Now or Heroku
+- Resume is also in HTML format and downloadable as a PDF
+
+---
+# 3. Find out who's in charge
 
 ---
 ## The "No" Person
@@ -79,7 +93,8 @@ Check out Indeed/Monster/etc
 
 
 ---
-## 4. Don't You Forget About Me
+# 4. Don't You Forget About Me
+---
 - Don't let more than 4 days go by without a message contact
 - Don't harass, just ask if they've had a look at your resume
 - Only give up after 14+ days of no response
@@ -126,15 +141,16 @@ Practicing what I preach: <a>Jason.Land/resume</a>
 - Accept a water if they ask you if you want something
 - Go over your interview questions
 - DO NOT TAKE OUT YOUR PHONE
-
-<p class="fragment">You know what? Just leave it at home</p>
+- Sit/stand up straight
+- Bring a tissue or handkerchief to wipe your hands
 
 ---
-- Bring a leather portfolio with:
-    - 10+ copies of your resume
-    - A pen
-    - A blank pad of paper
-    - A sheet of questions to ask them
+Bring a leather portfolio with:
+
+- 10+ copies of your resume
+- A pen
+- A blank pad of paper
+- A sheet of questions to ask them
 
 ---
 ## Talk the talk
@@ -154,7 +170,17 @@ Practicing what I preach: <a>Jason.Land/resume</a>
 - Remember the 4 day rule
 
 ---
-## Secret Step 6:
+## Ask for More Money
+
+- Job offers won’t be rescinded if you ask for too much money
+- Ask for more vacation if they're greedy and won't pay more
+- Start interviewing with your least desirable company first.
+    - Consider them practice
+    - After your interview at your favored company, you’ll have multiple offers and can use them as leverage.
+
+---
+# Secret Step 6
+---
 ## Connections are Everything
 - I've found 4 jobs through meetups
 - Go to one at least once a week
